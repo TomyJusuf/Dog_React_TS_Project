@@ -32,3 +32,4 @@ Currently, two official plugins are available:
 
 ![Alt text](./src/assets/Bildschirm_foto.png)
 # Dog_React_TS_Project
+# Dog_React_TS_Project_Props_Desctucturing
